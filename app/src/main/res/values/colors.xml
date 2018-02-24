@@ -24,14 +24,17 @@
     <color name="tan_background">#FFF7DA</color>
 
     <!-- Background color for the numbers category -->
-    <color name="category_numbers">#FD8E09</color>
+    <color name="category_numbers">#FF5733</color>
+
+    <!-- Background color for the food category -->
+    <color name="category_food">#DBFF33</color>
 
     <!-- Background color for the family members category -->
-    <color name="category_family">#379237</color>
+    <color name="category_family">#75FF33</color>
 
     <!-- Background color for the colors category -->
-    <color name="category_colors">#8800A0</color>
+    <color name="category_colors">#33FF57</color>
 
     <!-- Background color for the phrases category -->
-    <color name="category_phrases">#16AFCA</color>
+    <color name="category_phrases">#33FFBD</color>
 </resources>
